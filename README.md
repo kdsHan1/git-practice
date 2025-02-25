@@ -1,2 +1,3 @@
 # git-practice
-git test
+
+작성일자: 2025-02-25
